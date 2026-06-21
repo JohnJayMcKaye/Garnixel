@@ -39,9 +39,11 @@ Entwickelt von **DiSteMa** & **JohnJayMcKaye**
 
 Garnixel ist eine Linux-native GTK4-App — das ist eine Stärke, kein Fehler. 
 
-### Flatpak Installation (empfohlen)
+### [Garnixel-Flatpak](https://github.com/JohnJayMcKaye/Garnixel/releases/download/Flatpak-V1/garnixel.flatpak) Installation (empfohlen)
 Garnixel basiert auf der GNOME-Plattform (GTK4 + libadwaita).
 Diese muss einmalig heruntergeladen werden:
+
+[Download Garnixel.flatpak](https://github.com/JohnJayMcKaye/Garnixel/releases/download/Flatpak-V1/garnixel.flatpak)
 
 ```bash
 # GNOME Plattform (Laufzeit für den Endnutzer)
